@@ -1,0 +1,189 @@
+{
+  "transactionDetails": [
+    {
+      "transSequenceNumber": "1",
+      "merchantShortDbaName": "1",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "3000",
+      "transactionAmount": "150000",
+      "pointType": "turbinada"
+    },
+    {
+      "transSequenceNumber": "2",
+      "merchantShortDbaName": "2",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "3000",
+      "transactionAmount": "250.99",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "3",
+      "merchantShortDbaName": " 3",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "3000",
+      "transactionAmount": "600.13",
+      "pointType": "turbinada"
+    },
+    {
+      "transSequenceNumber": "4",
+      "merchantShortDbaName": " 4",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "3000",
+      "transactionAmount": "2500.47",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "5",
+      "merchantShortDbaName": "5",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "3000",
+      "transactionAmount": "100.01",
+      "pointType": "turbinada"
+    },
+    {
+      "transSequenceNumber": "6",
+      "merchantShortDbaName": "6",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "400",
+      "transactionAmount": "350.66",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "7",
+      "merchantShortDbaName": "7",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "200",
+      "transactionAmount": "100",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "8",
+      "merchantShortDbaName": "8",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "200",
+      "transactionAmount": "100",
+      "pointType": "ilegivel"
+    },
+    {
+      "transSequenceNumber": "9",
+      "merchantShortDbaName": "9",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "200",
+      "transactionAmount": "100",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "10",
+      "merchantShortDbaName": "10",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "200",
+      "transactionAmount": "100",
+      "pointType": "turbinada"
+    },
+    {
+      "transSequenceNumber": "11",
+      "merchantShortDbaName": "11",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "2200",
+      "transactionAmount": "100",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "12",
+      "merchantShortDbaName": "12",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "200",
+      "transactionAmount": "100",
+      "pointType": "resgatada"
+    },
+    {
+      "transSequenceNumber": "13",
+      "merchantShortDbaName": "13",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "1200",
+      "transactionAmount": "100",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "14",
+      "merchantShortDbaName": "14",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "100200",
+      "transactionAmount": "150000",
+      "pointType": "turbinada"
+    },
+    {
+      "transSequenceNumber": "15",
+      "merchantShortDbaName": "15",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "2320",
+      "transactionAmount": "530",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "16",
+      "merchantShortDbaName": "16",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "2000",
+      "transactionAmount": "480",
+      "pointType": "turbinada"
+    },
+    {
+      "transSequenceNumber": "17",
+      "merchantShortDbaName": "17",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "2400",
+      "transactionAmount": "480",
+      "pointType": "resgatada"
+    },
+    {
+      "transSequenceNumber": "18",
+      "merchantShortDbaName": "18",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "1000",
+      "transactionAmount": "250",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "19",
+      "merchantShortDbaName": "19",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "2200",
+      "transactionAmount": "280",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "20",
+      "merchantShortDbaName": "20",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2022-08-12",
+      "pointsEarned": "2200",
+      "transactionAmount": "280",
+      "pointType": "resgatada"
+    }
+  ],
+  "points": [
+    {
+      "AvailablePoints": "10000"
+    }
+  ]
+}
