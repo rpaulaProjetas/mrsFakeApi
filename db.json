@@ -6,7 +6,7 @@
       "transactionDate": "2022-08-22",
       "expirationDate": "2025-08-22",
       "pointsEarned": "192",
-      "transactionAmount": "480.00",
+      "transactionAmount": "480",
       "pointType": "ilegivel"
     },
     {
@@ -15,7 +15,7 @@
       "transactionDate": "2022-08-15",
       "expirationDate": "2025-08-15",
       "pointsEarned": "260",
-      "transactionAmount": "650.00",
+      "transactionAmount": "650",
       "pointType": "turbinada"
     },
     {
@@ -24,7 +24,7 @@
       "transactionDate": "2022-08-15",
       "expirationDate": "2025-08-15",
       "pointsEarned": "192",
-      "transactionAmount": "480.00",
+      "transactionAmount": "480",
       "pointType": "turbinada"
     },
     {
@@ -33,7 +33,7 @@
       "transactionDate": "2022-08-15",
       "expirationDate": "2025-08-15",
       "pointsEarned": "104",
-      "transactionAmount": "260.00",
+      "transactionAmount": "260",
       "pointType": "legivel"
     },
     {
@@ -42,7 +42,7 @@
       "transactionDate": "2022-08-12",
       "expirationDate": "2025-08-12",
       "pointsEarned": "96",
-      "transactionAmount": "240.00",
+      "transactionAmount": "240",
       "pointType": "resgatada"
     },
     {
@@ -51,7 +51,7 @@
       "transactionDate": "2022-08-27",
       "expirationDate": "2025-08-27",
       "pointsEarned": "192",
-      "transactionAmount": "480.00",
+      "transactionAmount": "480",
       "pointType": "turbinada"
     },
     {
@@ -78,7 +78,7 @@
       "transactionDate": "2022-05-20",
       "expirationDate": "2025-05-20",
       "pointsEarned": "1482",
-      "transactionAmount": "3705.00",
+      "transactionAmount": "3705",
       "pointType": "legivel"
     },
     {
@@ -87,7 +87,7 @@
       "transactionDate": "2022-05-12",
       "expirationDate": "2025-05-12",
       "pointsEarned": "1054",
-      "transactionAmount": "2635.00",
+      "transactionAmount": "2635",
       "pointType": "legivel"
     },
     {
@@ -96,7 +96,7 @@
       "transactionDate": "2022-05-10",
       "expirationDate": "2025-05-10",
       "pointsEarned": "34",
-      "transactionAmount": "85.00",
+      "transactionAmount": "85",
       "pointType": "legivel"
     },
     {
@@ -105,7 +105,7 @@
       "transactionDate": "2022-04-12",
       "expirationDate": "2025-04-12",
       "pointsEarned": "24",
-      "transactionAmount": "60.00",
+      "transactionAmount": "60",
       "pointType": "resgatada"
     },
     {
@@ -132,7 +132,7 @@
       "transactionDate": "2022-03-05",
       "expirationDate": "2025-03-05",
       "pointsEarned": "180",
-      "transactionAmount": "450.00",
+      "transactionAmount": "450",
       "pointType": "legivel"
     }
   ],
