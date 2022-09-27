@@ -1,0 +1,144 @@
+{
+  "transactionDetails": [
+    {
+      "transSequenceNumber": "1",
+      "merchantShortDbaName": "Concessionária RAM Via Sul",
+      "transactionDate": "2022-08-22",
+      "expirationDate": "2025-08-22",
+      "pointsEarned": "192",
+      "transactionAmount": "480.00",
+      "pointType": "ilegivel"
+    },
+    {
+      "transSequenceNumber": "2",
+      "merchantShortDbaName": "RAM Store",
+      "transactionDate": "2022-08-15",
+      "expirationDate": "2025-08-15",
+      "pointsEarned": "260",
+      "transactionAmount": "650.00",
+      "pointType": "turbinada"
+    },
+    {
+      "transSequenceNumber": "3",
+      "merchantShortDbaName": "Concessionária RAM EUROPAMOTORS",
+      "transactionDate": "2022-08-15",
+      "expirationDate": "2025-08-15",
+      "pointsEarned": "192",
+      "transactionAmount": "480.00",
+      "pointType": "turbinada"
+    },
+    {
+      "transSequenceNumber": "4",
+      "merchantShortDbaName": "Passagem aérea",
+      "transactionDate": "2022-08-15",
+      "expirationDate": "2025-08-15",
+      "pointsEarned": "104",
+      "transactionAmount": "260.00",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "5",
+      "merchantShortDbaName": "Concessionária RAM EUROPAMOTORS",
+      "transactionDate": "2022-08-12",
+      "expirationDate": "2025-08-12",
+      "pointsEarned": "96",
+      "transactionAmount": "240.00",
+      "pointType": "resgatada"
+    },
+    {
+      "transSequenceNumber": "6",
+      "merchantShortDbaName": "Concessionária RAM Via Sul",
+      "transactionDate": "2022-08-27",
+      "expirationDate": "2025-08-27",
+      "pointsEarned": "192",
+      "transactionAmount": "480.00",
+      "pointType": "turbinada"
+    },
+    {
+      "transSequenceNumber": "7",
+      "merchantShortDbaName": "Lojas Renner",
+      "transactionDate": "2022-06-02",
+      "expirationDate": "2025-06-02",
+      "pointsEarned": "132",
+      "transactionAmount": "329.99",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "8",
+      "merchantShortDbaName": "Carrefour",
+      "transactionDate": "2022-05-29",
+      "expirationDate": "2025-05-29",
+      "pointsEarned": "248",
+      "transactionAmount": "619.99",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "9",
+      "merchantShortDbaName": "Ponto Frio",
+      "transactionDate": "2022-05-20",
+      "expirationDate": "2025-05-20",
+      "pointsEarned": "1482",
+      "transactionAmount": "3705.00",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "10",
+      "merchantShortDbaName": "Magazine Luiza",
+      "transactionDate": "2022-05-12",
+      "expirationDate": "2025-05-12",
+      "pointsEarned": "1054",
+      "transactionAmount": "2635.00",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "11",
+      "merchantShortDbaName": "Burger King",
+      "transactionDate": "2022-05-10",
+      "expirationDate": "2025-05-10",
+      "pointsEarned": "34",
+      "transactionAmount": "85.00",
+      "pointType": "legivel"
+    },
+    {
+      "transSequenceNumber": "12",
+      "merchantShortDbaName": "Kinoplex",
+      "transactionDate": "2022-04-12",
+      "expirationDate": "2025-04-12",
+      "pointsEarned": "24",
+      "transactionAmount": "60.00",
+      "pointType": "resgatada"
+    },
+    {
+      "transSequenceNumber": "13",
+      "merchantShortDbaName": "Giraffas",
+      "transactionDate": "2022-04-10",
+      "expirationDate": "2025-04-10",
+      "pointsEarned": "34",
+      "transactionAmount": "85",
+      "pointType": "resgatada"
+    },
+    {
+      "transSequenceNumber": "14",
+      "merchantShortDbaName": "Xbox GamePass",
+      "transactionDate": "2022-03-21",
+      "expirationDate": "2025-03-21",
+      "pointsEarned": "18",
+      "transactionAmount": "44.99",
+      "pointType": "ilegivel"
+    },
+    {
+      "transSequenceNumber": "15",
+      "merchantShortDbaName": "Microsoft",
+      "transactionDate": "2022-03-05",
+      "expirationDate": "2025-03-05",
+      "pointsEarned": "180",
+      "transactionAmount": "450.00",
+      "pointType": "legivel"
+    }
+  ],
+  "points": [
+    {
+      "AvailablePoints": 3500
+    }
+  ]
+}
