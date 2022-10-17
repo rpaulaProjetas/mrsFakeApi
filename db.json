@@ -5,7 +5,7 @@
       "merchantShortDbaName": "Concessionária RAM Via Sul",
       "transactionDate": "2022-08-22",
       "expirationDate": "2025-08-22",
-      "pointsEarned": "191.50",
+      "pointsEarned": "191",
       "transactionAmount": "480",
       "pointType": "ilegivel"
     },
@@ -14,7 +14,7 @@
       "merchantShortDbaName": "RAM Store",
       "transactionDate": "2022-08-15",
       "expirationDate": "2025-08-15",
-      "pointsEarned": "260.50",
+      "pointsEarned": "260",
       "transactionAmount": "650",
       "pointType": "turbinada"
     },
@@ -23,7 +23,7 @@
       "merchantShortDbaName": "Concessionária RAM EUROPAMOTORS",
       "transactionDate": "2022-08-15",
       "expirationDate": "2025-08-15",
-      "pointsEarned": "191.99",
+      "pointsEarned": "191",
       "transactionAmount": "480",
       "pointType": "turbinada"
     },
@@ -32,7 +32,7 @@
       "merchantShortDbaName": "Passagem aérea",
       "transactionDate": "2022-08-15",
       "expirationDate": "2025-08-15",
-      "pointsEarned": "104.75",
+      "pointsEarned": "104",
       "transactionAmount": "260",
       "pointType": "legivel"
     },
@@ -41,7 +41,7 @@
       "merchantShortDbaName": "Concessionária RAM EUROPAMOTORS",
       "transactionDate": "2022-08-12",
       "expirationDate": "2025-08-12",
-      "pointsEarned": "96.49",
+      "pointsEarned": "96",
       "transactionAmount": "240",
       "pointType": "resgatada"
     },
@@ -50,7 +50,7 @@
       "merchantShortDbaName": "Concessionária RAM Via Sul",
       "transactionDate": "2022-08-27",
       "expirationDate": "2025-08-27",
-      "pointsEarned": "192.48",
+      "pointsEarned": "192",
       "transactionAmount": "480",
       "pointType": "turbinada"
     },
@@ -59,7 +59,7 @@
       "merchantShortDbaName": "Lojas Renner",
       "transactionDate": "2022-06-02",
       "expirationDate": "2025-06-02",
-      "pointsEarned": "132.01",
+      "pointsEarned": "132",
       "transactionAmount": "329.99",
       "pointType": "legivel"
     },
@@ -68,7 +68,7 @@
       "merchantShortDbaName": "Carrefour",
       "transactionDate": "2022-05-29",
       "expirationDate": "2025-05-29",
-      "pointsEarned": "248.00",
+      "pointsEarned": "248",
       "transactionAmount": "619.99",
       "pointType": "legivel"
     },
@@ -77,7 +77,7 @@
       "merchantShortDbaName": "Ponto Frio",
       "transactionDate": "2022-05-20",
       "expirationDate": "2025-05-20",
-      "pointsEarned": "1482.23",
+      "pointsEarned": "1482",
       "transactionAmount": "3705",
       "pointType": "legivel"
     },
@@ -86,7 +86,7 @@
       "merchantShortDbaName": "Magazine Luiza",
       "transactionDate": "2022-05-12",
       "expirationDate": "2025-05-12",
-      "pointsEarned": "1054.49",
+      "pointsEarned": "1054",
       "transactionAmount": "2635",
       "pointType": "legivel"
     },
@@ -95,7 +95,7 @@
       "merchantShortDbaName": "Burger King",
       "transactionDate": "2022-05-10",
       "expirationDate": "2025-05-10",
-      "pointsEarned": "34.51",
+      "pointsEarned": "34",
       "transactionAmount": "85",
       "pointType": "legivel"
     },
